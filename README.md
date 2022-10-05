@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/e0bc28185977299bf5d2c.jpg" alt="PROJECT 01" height= "300" width="300"/>
+<img src="[(https://telegra.ph/file/34e14ffc696137d1c97a3.jpg)]" alt="PROJECT 01" height= "300" width="300"/>
 
 
 </p>
@@ -62,7 +62,7 @@ And Many More Features Are Available 😊
 
 <!---->
 # Thanks to
-<a href="https://github.com/Ajmal-Achu"><img src="https://github.com/Ajmal-Achu.png?size=100" width="100" height="100"></a> | [<img src="https://telegra.ph/file/0d160eade24b0ad32ee12.jpg" width="100" height="100">](https://github.com/Ajmal-Achu/Wizard-MD) 
+<a href="https://github.com/Ajmal-Achu"><img src="https://github.com/Ajmal-Achu.png?size=100" width="100" height="100"></a> | [<img src="(https://telegra.ph/file/34e14ffc696137d1c97a3.jpg)" width="100" height="100">](https://github.com/Ajmal-Achu/Wizard-MD) 
 ---|---
 [AJMAL](https://github.com/Ajmal-Achu)  | [ABHI](https://github.com/Ajmal-Achu/Wizard-MD)
 DEVELOPER| FOR HELP |
