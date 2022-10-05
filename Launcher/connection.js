@@ -17,14 +17,14 @@ global.APIKeys = {
 
 global.herokuapi = process.env.HEROKU_API_KEY
 global.herokuapp = process.env.HEROKU_APP_NAME
-
+global.removebgapi = process.env.REMOVE_BG_API_KEY
 //settings
 
 let fake = process.env.OWNER_NUMBER
-global.owner = [`${fake}`]
-global.wame = "https://github.com/Ajmal-Achu/Wizard-MD"
-global.pemilik = ['918590508376']
-global.premium = ['918590508376']
+global.owner = ['DON OFFICIAL']
+global.wame = "https://wa.me/923145151029"
+global.pemilik = ['923145151029']
+global.premium = ['923145151029']
 global.pengguna = process.env.USER_NAME
 global.footer = process.env.WATERMARK
 global.watermark = process.env.WATERMARK
@@ -32,13 +32,13 @@ global.logo = process.env.LOGO
 global.botname = process.env.BOT_NAME
 global.caption = process.env.CAPTION
 global.ownername = process.env.OWNER_NAME
-global.tutorial = "https://youtu.be/hHQRs_eCoXM"
-global.youtube = "github.com/Ajmal-Achu"
+global.tutorial = "https://youtube.com/channel/UC8kcg3DzdwSGNKXGYlSup_w"
+global.youtube = "https://youtube.com/channel/UC8kcg3DzdwSGNKXGYlSup_w"
 global.packname = process.env.STICKER_PACK_NAME
 global.logo = process.env.LOGO
 global.author = process.env.STICKER_AUTHOR_NAME
 global.sessionName = 'session' //session name
-global.prefa = ['#','!','/',''] //prefix
+global.prefa = ['.'] //prefix
 global.sp = '🔵' //sp
 global.dripstyping = false
 global.dripsreadgroup = false
@@ -65,15 +65,15 @@ global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
     success: 'All set sucessfully changed settings!',
-    public: 'Wizard MD is now working in public mode',
-    self: 'Wizard MD is now working in private mode',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*wizard bot must be admin first!*',
-    owner: '*this feature is only for owner*',
+    public: 'BOT BY DON is now working in public mode',
+    self: 'BOT BY DON is now working in private mode',
+    admin: '*This feature is only for DON!*',
+    botAdmin: '*BOT BY DON must be admin first!*',
+    owner: '*This feature is only for DON*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This feature in only for the bot number',
+    bot: 'This feature in only for the BOT BY DON',
     wait: '*please wait it is being processed....⚙️*',
     endLimit: '*Your daily limit has expired the limit will be reseted every 12 hours*',
     noPetualang: '*you are not in rpg database type #joinrpg* _ur name_'
@@ -90,8 +90,8 @@ emeraldawal: 5,
 umpanawal: 5,
 potionawal: 1
 }
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/y6KUWzF.mp4' }
+global.vid = { url: 'https://i.imgur.com/y6KUWzF.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
